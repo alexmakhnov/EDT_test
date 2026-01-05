@@ -122,6 +122,24 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="8cda4317-2021-4865-b47d-a2c427ea42e3">
+    <name>ЕщеОдинРеквизит</name>
+    <synonym>
+      <key>ru</key>
+      <value>Еще один реквизит</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <forms uuid="06e7e34d-12ba-4775-8c26-8329031ff6c8">
     <name>ФормаЭлемента</name>
     <synonym>
